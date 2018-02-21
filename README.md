@@ -1,2 +1,2 @@
 # lp
-little piece of python script from others
+little piece of python script
